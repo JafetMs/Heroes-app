@@ -1,4 +1,4 @@
-import { use, useMemo } from "react";
+import { use } from "react";
 
 import { Badge } from "@/components/ui/badge";
 import { Heart, Trophy, Users, Zap } from "lucide-react";

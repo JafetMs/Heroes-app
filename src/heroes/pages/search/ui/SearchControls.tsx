@@ -2,7 +2,7 @@ import { useSearchParams } from "react-router";
 import { useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Filter, Grid, Plus, Search, SortAsc, Vault } from "lucide-react";
+import { Filter, Grid, Plus, Search, SortAsc } from "lucide-react";
 import { Slider } from "@/components/ui/slider";
 
 import {
